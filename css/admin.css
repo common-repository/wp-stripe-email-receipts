@@ -1,0 +1,13 @@
+#wp_stripe_email_receipts_setting_message_from_name,
+#wp_stripe_email_receipts_setting_message_subject_template {
+	width: 300px;
+}
+#wp_stripe_email_receipts_setting_message_body_template {
+	width: 500px;
+	height: 250px;
+}
+.wp-stripe-email-receipts-available-placeholders {
+	background: #f9f9f9;
+	border: 1px solid #ddd;
+	padding: 0 1.5em;
+}
